@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Inspiration from 
-https://github.com/jiang111/flutter_code/tree/master/flutter_ui/lib/ui_1
+https://github.com/jiang111/flutter_code
